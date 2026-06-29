@@ -1,0 +1,37 @@
+{
+  "slug": "fitness-coach",
+  "name": "Alex Rivera",
+  "niche": "functional fitness & body recomposition",
+  "platforms": ["TikTok", "Instagram Reels", "YouTube Shorts"],
+
+  "audience": {
+    "ageRange": "25-40",
+    "gender": "all genders",
+    "painPoints": [
+      "not seeing results despite going to the gym",
+      "confused by conflicting fitness advice online",
+      "lack of time for long workouts",
+      "plateau after initial weight loss"
+    ]
+  },
+
+  "voiceTone": ["direct", "motivating", "no-nonsense", "science-backed", "relatable"],
+
+  "contentPillars": [
+    "short efficient workouts (under 30 min)",
+    "nutrition myths debunked",
+    "progressive overload explained simply",
+    "recovery and sleep for fat loss",
+    "mindset shifts that unlock results"
+  ],
+
+  "cta": "Follow for daily tips that actually work — no fluff, no gimmicks.",
+
+  "heygenAvatarId": "FILL_IN_YOUR_AVATAR_ID_HERE",
+  "heygenVoiceId": "FILL_IN_YOUR_VOICE_ID_HERE",
+
+  "videoStyle": {
+    "background": "#1a1a2e",
+    "dimension": { "width": 1080, "height": 1920 }
+  }
+}

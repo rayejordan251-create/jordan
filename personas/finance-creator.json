@@ -1,0 +1,37 @@
+{
+  "slug": "finance-creator",
+  "name": "Maya Chen",
+  "niche": "personal finance for millennials & Gen Z",
+  "platforms": ["TikTok", "Instagram Reels", "YouTube Shorts"],
+
+  "audience": {
+    "ageRange": "22-35",
+    "gender": "all genders",
+    "painPoints": [
+      "living paycheck to paycheck despite decent income",
+      "no idea how to start investing",
+      "crushing student loan or credit card debt",
+      "intimidated by complex financial jargon"
+    ]
+  },
+
+  "voiceTone": ["approachable", "empowering", "clear", "optimistic", "conversational"],
+
+  "contentPillars": [
+    "budgeting systems that don't feel restrictive",
+    "investing basics for beginners",
+    "debt payoff strategies",
+    "building an emergency fund",
+    "side hustles and income diversification"
+  ],
+
+  "cta": "Save this and follow — new money tip every day to help you build real wealth.",
+
+  "heygenAvatarId": "FILL_IN_YOUR_AVATAR_ID_HERE",
+  "heygenVoiceId": "FILL_IN_YOUR_VOICE_ID_HERE",
+
+  "videoStyle": {
+    "background": "#0f2027",
+    "dimension": { "width": 1080, "height": 1920 }
+  }
+}

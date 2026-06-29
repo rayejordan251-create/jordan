@@ -1,0 +1,19 @@
+{
+  "name": "ai-influencer-video-generator",
+  "version": "1.0.0",
+  "description": "End-to-end AI influencer video pipeline: Claude script generation → HeyGen avatar video rendering",
+  "main": "generate.js",
+  "type": "module",
+  "scripts": {
+    "generate:all": "node generate.js --all",
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

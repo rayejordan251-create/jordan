@@ -1,0 +1,37 @@
+{
+  "slug": "mindset-coach",
+  "name": "Jordan Blake",
+  "niche": "productivity & high-performance mindset",
+  "platforms": ["TikTok", "Instagram Reels", "LinkedIn"],
+
+  "audience": {
+    "ageRange": "28-45",
+    "gender": "all genders",
+    "painPoints": [
+      "chronic procrastination and self-sabotage",
+      "burning out while chasing goals",
+      "feeling stuck despite working hard",
+      "difficulty maintaining consistent habits"
+    ]
+  },
+
+  "voiceTone": ["calm", "insightful", "grounded", "challenging", "authentic"],
+
+  "contentPillars": [
+    "identity-based habit formation",
+    "breaking procrastination cycles",
+    "morning routine optimization",
+    "overcoming fear of failure",
+    "energy management over time management"
+  ],
+
+  "cta": "Follow for daily mindset shifts that separate high performers from everyone else.",
+
+  "heygenAvatarId": "FILL_IN_YOUR_AVATAR_ID_HERE",
+  "heygenVoiceId": "FILL_IN_YOUR_VOICE_ID_HERE",
+
+  "videoStyle": {
+    "background": "#2d1b69",
+    "dimension": { "width": 1080, "height": 1920 }
+  }
+}
